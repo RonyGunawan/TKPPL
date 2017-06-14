@@ -1,0 +1,186 @@
+.rainbow{
+    -webkit-animation: rainbow 1s infinite;  
+  /* Internet Explorer */
+  -ms-animation: rainbow 1s infinite; 
+  /* Standar Syntax */
+  animation: rainbow 1s infinite; 
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+	20%{color: red;}
+	40%{color: yellow;}
+	60%{color: green;}
+	80%{color: blue;}
+	100%{color: orange;}	
+}
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+	20%{color: red;}
+	40%{color: yellow;}
+	60%{color: green;}
+	80%{color: blue;}
+	100%{color: orange;}	
+}
+/* Standar Syntax */
+@keyframes rainbow{
+	20%{color: red;}
+	40%{color: yellow;}
+	60%{color: green;}
+	80%{color: blue;}
+	100%{color: orange;}	
+}
+
+#hal2 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color : maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal3 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+.ctnr1{
+    width: 800px;
+    text-align:left;
+    font-size: 20px;
+    font-family: times new roman;
+    color: black;
+}
+#hal4 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal5 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal6 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal7 h2{
+    font-family:comic sans ms;
+    padding-bottom: 10px;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+.ctnr1 img{
+    width: 400px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+.ctnr2 img{
+    width: 400px;
+    height: 300px;
+    padding-top: 10px;
+}
+.ctnr3 img{
+    width: 59px;
+    height: 33px;
+    margin: -1.5px 2.5px 2.5px 2.5px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#hal8 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+#hal9 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+#hal10 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+#hal8 h2{
+    font-family:comic sans ms;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal9 h2{
+    font-family:comic sans ms;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal10 h2{
+    font-family:comic sans ms;
+    color: maroon;
+    font-size: 40px;
+    text-align: center;
+}
+
+#hal11 h2{
+    font-family:comic sans ms;
+    color: maroon;
+    font-size: 40px;  
+}
+
+.ctnr4 img{
+    width: 150px;
+    height: 150px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.ctnr5 img{
+    width: 150px;
+    height: 100px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    float: left;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#hal11 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+#hal12 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+}
