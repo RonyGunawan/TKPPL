@@ -1,7 +1,7 @@
 Repository dah Beres tinggal Maen Push & Pull
 Nih Petunjuk pake Git :
 
-1)  Download Git, Install (Next,Next,Next :v)
+1)  Download Git, Install (Next,Next,Next (-.-)
 
 2)  Bikin 1 Folder kosong (New Folder)
 
@@ -9,19 +9,19 @@ Nih Petunjuk pake Git :
 
 4)  Tulis       : git config --global user.name "Isi dgn Nickname Github mu" 
 
-    Cth         : git config --global user.name "Degianz"
+    Cth         : git config --global user.name "RonyGunawan"
     
     Tulis       : git config --global user.email "Isi dgn email pas daftar Github mu"
    
-    Cth         : git config --global user.email "giangenesisiusb@gmail.com"
+    Cth         : git config --global user.email "ronygunawanz11@gmail.com"
     
-5)  Tulis       : git clone https://github.com/Py15112327/CalculatorRepo.git
+5)  Tulis       : git clone https://github.com/RonyGunawan/TKPPL.git
 
 6)  Close Gitnya, Masuk ke folder CalculatorRepo klik kanan Pilih "Git Bash Here"
 
 7)  Add Remote Repository dengan :
 
-    Tulis       : git Remote add origin https://github.com/Py151112327/CalculatorRepo.git
+    Tulis       : git Remote add origin https://github.com/RonyGunawan/TKPPL.git
 
 Step 1 - 7 cuma 1 kali aja untuk 1 buah project :v
 
@@ -40,10 +40,9 @@ nah ini yg bakal berulang2 :
     
     Ketik       : git Commit -m "Pesan singkat tentang Apa aja yg lu ubah pas ngoding tdi"
     
-    cth         : git commit -m "oi gw ngubah tampilan backgroundnya ya!"
+    cth         : git commit -m "wew ada coding yang wa ganti "
     
     ketik       : git push -u origin master
 
 Nah lakukan step 2 - 3 berulang (1 - 3 klo mw data akurat) setiap kalian mau tambah isi code
-okay Done :v
-
+okay Siap <(0-0)
