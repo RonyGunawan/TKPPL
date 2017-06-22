@@ -107,6 +107,14 @@
     cursor: pointer;
 }
 
+.ctnr10 img:hover{
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    cursor: pointer;
+    
+}
+
 .ctnr5 img:hover{
     -moz-transform: scale(1.5);
     -webkit-transform: scale(1.5);
